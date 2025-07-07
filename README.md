@@ -1,2 +1,2 @@
-# go-cli
-A cli using go for learning go
+# go-tut
+A tut using go for learning go
